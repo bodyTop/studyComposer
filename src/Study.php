@@ -1,14 +1,14 @@
 <?php
 
 
-namespace Guanguans;
+namespace Breeze;
 
 
 class Study
 {
 
     public function test(){
-        return 'ok';
+        return 'hello word';
     }
 
 
