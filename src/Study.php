@@ -7,6 +7,8 @@ namespace Breeze;
 class Study
 {
 
+    protected $version = '1.2';
+
     public function index(){
         return 'hello word';
     }
