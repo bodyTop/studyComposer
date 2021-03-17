@@ -1,0 +1,17 @@
+{
+    "name": "breeze/study",
+    "type": "library",
+    "authors": [
+        {
+            "name": "guo jiahao",
+            "email": "13835610017@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Guanguans\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
