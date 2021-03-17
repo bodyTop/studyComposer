@@ -7,7 +7,7 @@ namespace Breeze;
 class Study
 {
 
-    public function test(){
+    public function index(){
         return 'hello word';
     }
 
